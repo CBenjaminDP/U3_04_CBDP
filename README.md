@@ -1,11 +1,11 @@
-# 📦 U3_04_CBDP – API REST: Gestión de Compra y Renta de Almacenes
+#  U3_04_CBDP – API REST: Gestión de Compra y Renta de Almacenes
 
 Desarrollado por: Carlos Benjamin Diaz Pedroza
 Materia: Desarrollo Web Integral
 
 ---
 
-## 🛠️ Descripción
+## ️ Descripción
 
 Este proyecto consiste en una **API RESTful construida con Spring Boot** para gestionar un sistema de compra y renta de almacenes. Incluye el registro de:
 
@@ -65,7 +65,7 @@ La API cumple con:
 
 ---
 
-##  Ejecución
+##  Ejecución 
 
 1. Clona el repositorio:
 
